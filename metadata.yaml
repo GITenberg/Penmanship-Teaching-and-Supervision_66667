@@ -1,11 +1,16 @@
 _repo: Penmanship-Teaching-and-Supervision_66667
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66667-h/images/cover.jpg
 creator:
   author:
     agent_name: Hiles, Leta Severance
     gutenberg_agent_id: '53907'
     url: http://www.gutenberg.org/2009/agents/53907
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66667#Penmanship-Teaching-and-Supervision
 gutenberg_issued: '2021-11-05'
 identifiers:
   gutenberg: '66667'
